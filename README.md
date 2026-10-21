@@ -1,6 +1,6 @@
 # 📚 Avaliação 1
 
-### 👩‍💻 Neidiman Raposo e Sara
+### 👩‍💻 Neidiman Raposo e Sarah vilanova
 
 🏫 **Residência em Python/Django - IFB**
 
